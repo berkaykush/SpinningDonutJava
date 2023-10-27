@@ -36,3 +36,5 @@ While inside the `src` folder, run `javac main/java/com/donut/spinning/DonutShap
             **!!!==::-.,~~;;;========;;;~-...,-
                 -.........................*/
 ```
+
+https://github.com/berkaykush/SpinningDonutJava/assets/70837975/11f39e3b-39c2-4a41-903e-ff5a83c5350f
