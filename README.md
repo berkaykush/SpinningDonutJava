@@ -5,7 +5,7 @@
 ![Status-Complete](https://img.shields.io/badge/Status-Complete-green.svg)
 
 Donut-shaped Java code that generates a 3D spinning donut.\
-[Original C code(donut.c)](https://www.a1k0n.net/2011/07/20/donut-math.html) written by Andy Sloane.
+[Original C code(donut.c) and its explanation](https://www.a1k0n.net/2011/07/20/donut-math.html) written by Andy Sloane.
 
 ## Run with
 
